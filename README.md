@@ -16,3 +16,8 @@ https://github.com/imsteaky
 
 ### This was based on this original design
 http://frontend.turing.io/assets/images/static-comp-challenge-1.jpg
+
+### issues 
+<img width="1440" alt="screen shot 2018-05-22 at 8 27 34 am" src="https://user-images.githubusercontent.com/34214595/40368905-04c9d44e-5d9a-11e8-80b6-bc4f1cbb41ae.png">
+
+On GITHUB Pages the icon in grid won't properly display, but it's there in desktop mode and the file linking is correct. Not sure what's going on. :(
